@@ -4,7 +4,7 @@
 
 Планирую довести его до совершенства помощью ревьюиров, кураторов и коллег!
 
-Ссылка на проект (https://github.com/jvlasova/russian-travel)
+Ссылка на проект (https://jvlasova.github.io/russian-travel/index.html)
 
 **
 
