@@ -1,0 +1,31 @@
+.photo-gid {
+  max-width: 1184px;
+  margin: 92px 48px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+  grid-gap: 16px;
+}
+
+@media screen and (max-width: 1279px) {
+  .photo-gid {
+    margin: 92px 48px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 14px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .photo-gid {
+    margin: 88px 24px;
+    grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
+    grid-gap: 16px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .photo-gid {
+    margin: 64px 16px 66px;
+    grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
+    grid-gap: 12px;
+  }
+}
