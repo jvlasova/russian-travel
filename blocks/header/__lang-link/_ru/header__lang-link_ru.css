@@ -8,16 +8,8 @@
   color: #FFFFFF;
 }
 
-@media screen and (max-width: 1023px) {
-  .header__lang-link_ru {
-    right: 71px;
-  }
-}
-
 @media screen and (max-width: 767px) {
   .header__lang-link_ru {
-    right: 56px;
-    top: 30px;
     font-size: 18px;
     line-height: 1.1;
   }
