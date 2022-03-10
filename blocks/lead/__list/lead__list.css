@@ -1,0 +1,9 @@
+.lead__list {
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1279) {
+  .lead__list {
+    margin: 0 48px;
+  }
+}
